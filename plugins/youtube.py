@@ -31,7 +31,7 @@ async def ytdl(_, message):
         await message.reply_text("`A fail tlat mai.. 😔 \nA chhhan chu, he Video Data hi ka hmu thei lo tlat. \n#error`")
         return
     buttons = InlineKeyboardMarkup(list(create_buttons(formats)))
-    sentm = await message.reply_text("YT URL a dik e... © @ZauteKm")
+    sentm = await message.reply_text("YT URL a dik e... © @ZKbotsUpdate")
     try:
         # Todo add webp image support in thumbnail by default not supported by pyrogram
         # https://www.youtube.com/watch?v=lTTajzrSkCw
