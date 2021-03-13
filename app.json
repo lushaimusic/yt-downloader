@@ -6,24 +6,35 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "success_url": "https://t.me/YoutubeDL_ZKbot",
+  "website": "https://github.com/zauteakm/Youtube-DL-Bot",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
-  },
-      "buildpacks": [
-        {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
-        {"url": "heroku/python"}
-    ],
-  "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
+        {
+    "API_ID": {
+      "description": "Your API_ID from https://t.me/TgApiZKbot ",
+      "value": ""
     },
-      "stack": "heroku-20"
-
-
+    "API_HASH": {
+      "description": "Your API_HASH from https://t.me/TgApiZKbot",
+      "value": ""
+    },
+    "AUTH_USERS": {
+      "description": "Array to store users who are authorized to use the bot",
+      "value": "1684438752"
+    },
+    "TIME_LIMIT": {
+      "description": "For time to next process",
+      "value":"0"
+    },
+    "UPDATE_CHANNEL": {
+      "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
+      "value": "",
+      "required": false
+    }
+   },
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
 }
