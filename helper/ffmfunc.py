@@ -1,4 +1,4 @@
-import subprocess as sp
+import subprocess as s
 import json
 
 
