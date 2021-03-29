@@ -1,4 +1,4 @@
-# Youtube Downloader bot
+# Youtube Downloader Bot
 ## Prerequisite
     ffmpeg
   
@@ -12,8 +12,8 @@
     - install dependencies
     - python3 -m bot
     
-## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
+## Follow Now 🤩
+* [TGBotSzK](https://telegram.dog/TGBotSzK) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
+* [Support Group](https://telegram.dog/MizoInFoTel1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/Youtube-DL-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/YT-Downloader/tree/master)
