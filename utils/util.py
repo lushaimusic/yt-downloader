@@ -1,4 +1,4 @@
-def humanbytes(num, suffix='B'):
+def humanbytes(num, suffix='B')
     if num is None:
         num = 0
     else:
