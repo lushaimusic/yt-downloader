@@ -1,4 +1,4 @@
-from __future__ import unicode_literals
+from __future__ import unicode_literal
 from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, InlineKeyboardMarkup
 import youtube_dl
 from utils.util import humanbytes
