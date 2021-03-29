@@ -1,1 +1,1 @@
-python3 -m  bo
+python3 -m  bot
