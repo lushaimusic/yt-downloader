@@ -1,17 +1,17 @@
 {
-  "name": "zK YouTube Downloader",
+  "name": "TGBotSzK YT-Downloader",
   "description": "A telegram bot To Download Youtube Files ",
   "logo": "https://telegra.ph/file/5c993ec33b004a9ca1670.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/ZauteaKm/Youtube-DL-Bot",
-  "success_url": "https://t.me/YoutubeDL_zKbot",
-  "website": "https://github.com/ZauteKm/Youtube-DL-Bot",
+  "repository": "https://github.com/ZauteKm/YT-Downloader",
+  "success_url": "https://t.me/urlupload_zkbot",
+  "website": "https://github.com/ZauteKm/YT-Downloader",
   "env": {
-        "API_ID": {"description": "Get this value from https://t.me/TGApiZKbot", "required": true},
-        "API_HASH": {"description": "Get this value from https://t.me/TGApiZKbot" , "required": true},
-        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
+        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
+        "BOT_TOKEN": {"description": "Get Bot Token From @BotFather","required": true}
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
