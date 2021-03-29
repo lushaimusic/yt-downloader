@@ -1,1 +1,1 @@
-worker : chmod +x start.sh && bash start.s
+worker : chmod +x start.sh && bash start.sh
