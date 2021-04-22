@@ -12,8 +12,12 @@
     - install dependencies
     - python3 -m bot
     
-## Follow Now 🤩
-* [TGBotSzK](https://telegram.dog/TGBotSzK) English Group [TGBotSzK Support](https://telegram.dog/ZauTeHelpDesk)
-* [Support Group](https://telegram.dog/ZauTeSupport)
+### Support Group:
+<a href="https://t.me/ZauTeSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+### Support Channel:
+<a href="https://t.me/ZauTeKm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-red.svg?logo=telegram"></a>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/YT-Downloader/tree/master)
+## Deploy to Heroku
+
+The easiest way to deploy this Song Bot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZauTeKm/YT-Downloader"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
