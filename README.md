@@ -1,4 +1,4 @@
-# Youtube Downloader Bot
+# YouTube Downloader Bot
 ## Prerequisite
     ffmpeg
   
