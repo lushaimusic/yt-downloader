@@ -13,7 +13,7 @@
     - python3 -m bot
     
 ## Follow Now 🤩
-* [TGBotSzK](https://telegram.dog/TGBotSzK) English Group [TGBotSzK Support](https://telegram.dog/TGBotSzKSupport)
-* [Support Group](https://telegram.dog/MizoInFoTel1)
+* [TGBotSzK](https://telegram.dog/TGBotSzK) English Group [TGBotSzK Support](https://telegram.dog/ZauTeHelpDesk)
+* [Support Group](https://telegram.dog/ZauTeSupport)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/YT-Downloader/tree/master)
