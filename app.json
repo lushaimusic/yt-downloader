@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/InFoJosTel/YT-Downloader",
+  "repository": "https://github.com/LushaiMusic/YT-Downloader",
   "success_url": "https://t.me/uploadzKbot",
-  "website": "https://github.com/InFoJosTel/YT-Downloader",
+  "website": "https://github.com/LushaiMusic/YT-Downloader",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
