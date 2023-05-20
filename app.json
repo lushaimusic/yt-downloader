@@ -5,7 +5,7 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/LushaiMusic/YT-Downloader",
+  "repository": "https://github.com/kanhaya12/yt-downloader",
   "success_url": "https://t.me/uploadzKbot",
   "website": "https://github.com/LushaiMusic/YT-Downloader",
   "env": {
